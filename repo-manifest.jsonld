@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/dellemc.enterprise_sonic/commit/46eba3b9b53e0779f214412f84f4dd3acd929788",
       "git:hexsha": "46eba3b9b53e0779f214412f84f4dd3acd929788",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:28:21.965290+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/dellemc.enterprise_sonic/commit/d06522c13871a3dd0286da5dbe05eae91271acf2",
