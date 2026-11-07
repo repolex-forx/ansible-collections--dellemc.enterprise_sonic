@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "dellemc.enterprise_sonic",
+  "versions": [
+    {
+      "commit": "46eba3b9b53e0779f214412f84f4dd3acd929788",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:28:21.965965+00:00"
+    }
+  ]
+}
